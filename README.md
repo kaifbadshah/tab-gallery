@@ -88,3 +88,30 @@ Chrome extensions require explicit permissions. Tab Gallery requests only what i
 > Note: Tab Gallery does not transmit any tab data anywhere. Everything runs locally.
 
 ---
+
+## Contributing
+
+### Contributions are welcome 🙌
+If you’d like to help improve Tab Gallery, you can contribute via:
+-bug reports
+-UI/UX improvements
+-performance optimizations
+-keyboard navigation improvements
+-accessibility improvements
+-feature requests
+
+### Quick guidelines
+-Keep UI minimal + Chrome-native
+-Avoid unnecessary permissions
+-Prioritize performance for large tab counts (100–500+)
+
+
+## Support / Contact
+
+If you have feedback, suggestions, or bug reports:
+
+📩 digital.detox.labs@gmail.com
+
+## License
+
+This project is licensed under the GNU Affero General Public License
